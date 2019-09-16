@@ -6,7 +6,7 @@ Spring service implementation
 2. Open CLI/GitBash inside the created folder.
 
 3. Use the below command and URL to clone the respository:
-git clone https://github.com/navindavidtitus/Greenfinch_spring.git
+git clone https://github.com/navindavidtitus/Greenfinch_Backend.git
 
 4. Open Eclipse IDE and import the project as an existing maven project.
 
@@ -16,9 +16,11 @@ git clone https://github.com/navindavidtitus/Greenfinch_spring.git
 
 7. After a successful build, a connection is established between the created Database and the service, which is consumed by the angular frontend.
 
-8. When a data is submitted through the UI, the data entered in the form is stored in the Database via REST API calls.
+8. Run the DemoApplication.java file 
 
-9. A success message is rendered in the UI, on successful Sign Up.
+9. When a data is submitted through the UI, the data entered in the form is stored in the Database via REST API calls.
+
+10. A success message is rendered in the UI, on successful Sign Up.
 
 
 # Database Creation
